@@ -1,0 +1,6 @@
+PyQt6>=6.5.0  # GUI framework (use PyQt5>=5.15.0 instead if preferred)
+requests>=2.31.0
+Pillow>=9.5.0
+mss>=9.0.1
+numpy
+rapidocr_onnxruntime
