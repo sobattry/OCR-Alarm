@@ -25,8 +25,3 @@ Built with **Python**, **PyQt6**, and **RapidOCR**.
 
 ### Prerequisites
 * Python 3.8 or higher.
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/yourusername/screen-ocr-monitor.git](https://github.com/yourusername/screen-ocr-monitor.git)
-cd screen-ocr-monitor
